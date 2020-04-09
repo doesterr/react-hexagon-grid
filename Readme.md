@@ -48,3 +48,5 @@ See the [demo](./demo/) for a working example.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+Check out our [career page](https://github.com/runtastic/request_handler) if you'd like to work with us.
